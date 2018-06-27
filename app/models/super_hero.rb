@@ -1,4 +1,4 @@
-class SuperHeroes
+class SuperHero
 
   attr_accessor :name, :power, :bio
 
