@@ -1,4 +1,4 @@
-class SuperHero
+class SuperHeroes
 
   attr_accessor :name, :power, :bio
 
@@ -7,5 +7,5 @@ class SuperHero
     @power = args[:power]
     @bio = args[:bio]
   end
-  
+
 end
